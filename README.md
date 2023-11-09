@@ -1,2 +1,3 @@
 # Ghoulcel-BpB-Skins
-Collection of all my custom skins for Backpack Battles
+
+A Collection of all my custom skins for Backpack Battles to be used with the modded client: https://github.com/Ghoulcel/BackpackBattle-Modded-
